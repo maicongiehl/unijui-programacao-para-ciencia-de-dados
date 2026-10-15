@@ -1,0 +1,4 @@
+projeto/data/.ignore/*
+*.zip
+*.venv
+*.parquet
